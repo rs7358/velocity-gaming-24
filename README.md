@@ -5,4 +5,5 @@ The UNITY files are in Assets > CAR RACE ASSIGNMENT
 
 ### Demo Video
 
-(https://github.com/rs7358/velocity-racing-24/blob/main/Screen-Recording-_4-4-2024-3-15-28-PM_.mp4)
+https://github.com/rs7358/velocity-racing-24/assets/75998040/a3183613-ad67-4314-81bb-3697dd0946b6
+
